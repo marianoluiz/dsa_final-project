@@ -1,0 +1,8 @@
+# Ignore VSCode specific files
+.vscode/
+
+# Ignore Code Runner temp files
+tempCodeRunnerFile.*
+
+# Ignore all .exe files
+*.exe
